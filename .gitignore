@@ -1,0 +1,8 @@
+labs/build/*
+labs/.idea/*
+labs/Banks/build/*
+**/.idea
+**/.gradle
+/build/*
+*.jar
+*.iml
